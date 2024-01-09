@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(234, 231, 236);
+}
+.main-container{
+    margin-top: 10vh;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.main_container{
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+.button{
+    display: flex;
+    flex-direction: column;
+   justify-content: space-around;
+    height:400px ;
+width: fit-content;
+
+text-align: center;
+padding: 20px;
+border-radius: 10px;
+
+
+
+
+}
+.stop{
+    height: 50px;
+    width: 100px;
+    background-color: #000000;
+    color: #fff;
+   font-weight: bold;
+   font-size: larger;
+    border-radius:50px ;
+    border-width: 0px;
+
+}
+.ready{
+    height: 50px;
+    width: 100px;
+  background-color: #000000;
+  color: #fff;;
+    border-radius:50px ;
+    font-weight: bold;
+    font-size: larger;
+    border-width: 0px;
+
+
+
+}
+.main1{
+    text-align: center;
+}
+.go{
+    height:50px;
+    width: 100px;
+   background-color: #000000;
+   color: #fff;
+   font-weight: bold;
+    border-radius:50px ;
+    font-size: larger;
+    border-width: 0px;
+
+}
+.bulb{
+height:400px ;
+width: 100px;
+background-color: black;
+display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+border-radius: 10px;
+}
+.red{
+    height: 100px;
+    width: 50px;
+    background-color: #fff;
+
+    border-radius:50px ;
+    margin-top: 15px;
+}
+.yellow{
+    height: 100px;
+    width: 50px;
+    background-color: #fff;
+    margin-top: 15px;
+
+    border-radius:50px ;
+}
+.green{
+    height: 100px;
+    width: 50px;
+    background-color: #fff;
+
+    border-radius:50px ;
+    margin-top: 15px;
+}
